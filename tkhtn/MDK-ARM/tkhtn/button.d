@@ -1,0 +1,34 @@
+tkhtn\button.o: ..\my_lib\Button.c
+tkhtn\button.o: ..\my_lib\Button.h
+tkhtn\button.o: ../Core/Inc/main.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+tkhtn\button.o: ../Core/Inc/stm32f1xx_hal_conf.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_def.h
+tkhtn\button.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f1xx.h
+tkhtn\button.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/stm32f103xb.h
+tkhtn\button.o: ../Drivers/CMSIS/Include/core_cm3.h
+tkhtn\button.o: D:\stm32\[khuenguyencreator.com] Keil C µVision 5 ARM Full\ARM\ARMCC\Bin\..\include\stdint.h
+tkhtn\button.o: ../Drivers/CMSIS/Include/cmsis_version.h
+tkhtn\button.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+tkhtn\button.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+tkhtn\button.o: ../Drivers/CMSIS/Device/ST/STM32F1xx/Include/system_stm32f1xx.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h
+tkhtn\button.o: D:\stm32\[khuenguyencreator.com] Keil C µVision 5 ARM Full\ARM\ARMCC\Bin\..\include\stddef.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_rcc_ex.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_gpio_ex.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_exti.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_dma_ex.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_cortex.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_adc_ex.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_flash_ex.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_i2c.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_pwr.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h
+tkhtn\button.o: ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h
